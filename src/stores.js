@@ -83,6 +83,6 @@ token.subscribe((val) => {
 });
 
 // Server constants
-export const clientId = 'e75d4692367e45f3b05f58230ec6b634';
-export const redirectURI = 'http://localhost:5173/callback';
+export const clientId = '90a553431c9d49b6ab7e775d353be1e7';
+export const redirectURI = 'https://spotify-temp.vercel.app/callback';
 export const scope = 'user-read-private user-read-email playlist-read-private';
